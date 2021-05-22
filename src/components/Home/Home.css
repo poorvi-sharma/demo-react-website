@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+.profile
+{
+    margin-bottom: 15%;
+    background-color: #f3f3f3;
+    margin-top: 10%;
+    font-family: Arial,Helvetica,sans-serif;
+    
+}
+.card-img
+{
+   height: 460px;width: 460px;
+   float:right;
+}
+.card-body
+{
+
+}
+.home-title
+{
+    font-size: 90px;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+    font-family: 'Work Sans', sans-serif;
+}
+.card-subtitle
+{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Work Sans', sans-serif;
+}
+.home-text
+{
+    font-size: 15px;
+    font-family: 'Rubik', sans-serif;
+    padding-right: 70px;
+    font-weight: 400;
+}
+.home-btn
+{
+    border: 1px solid black;
+    color: black;
+    font-weight: 600;
+    font-size: 20px;
+    margin: 1%;
+    height: 7.5rem;width: 7.5rem;
+    /* height:140px;width: 140px;
+    border-radius: 100%; */
+    margin-top: 8%;
+    padding-top: 10%;
+    display: flex row;
+}
+@media only screen and (max-width: 900px) { 
+    .page
+    {
+        overflow-x: hidden;
+    } 
+    .container {    
+        flex-direction : column;
+        margin:0px auto;  
+      }  
+    .col-img {
+      order : 2;  
+      
+    }  
+    .col-text {
+           order : 1;
+           padding-left :0px ;
+           margin: 0px;
+     } 
+     .home-btn
+     {
+        height: 6rem;width: 6rem;
+        font-size: 16px;
+     }
+     .card-img
+    {
+        height: 330px;width: 330px;
+        float:left; 
+    }
+ }
+
+

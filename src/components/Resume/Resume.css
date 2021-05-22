@@ -1,0 +1,51 @@
+.main-home{
+    color: black;
+    background-color: #f3f3f3;
+    margin-bottom: 0px;
+    margin: 0px;
+    padding-bottom: 1rem;
+    position: relative;
+    padding-left: 15%;
+}
+
+h3{  
+    font-size: 42px;
+    font: bold;
+}
+
+h1{
+    font-size: 26px;
+}
+
+h2{
+    font-size: 18px;
+}
+
+p{
+    font-size: 16px;
+    padding-left: 0%;
+}
+
+hr{
+    padding-bottom: 4rem;
+    width: 95%;
+}
+
+.resume{
+    padding-top: 4rem;
+    padding-left: 0%;
+}
+
+.work{
+    padding-top: 4rem;
+}
+
+.padd{
+    font-weight: bold;
+}
+
+.marginb{
+    margin-bottom: 53px;
+    padding-right: 15%;
+}
+

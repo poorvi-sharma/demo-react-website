@@ -1,0 +1,50 @@
+.main-footer {
+  color: black;
+  background-color: #f3f3f3;
+  position: relative;
+  padding-bottom: 4rem;
+  padding-left: 3.5rem;
+}
+
+h4{
+font-size: 18px;
+font-weight: bold;
+}
+
+h6{
+font-size: 16px;
+font-weight: lighter;
+}
+
+p{
+font-size: 13px;
+font-weight: lighter;
+margin: 0%;
+}
+
+.noul{
+color: black;
+}
+
+.noul:hover{
+color: black;
+text-decoration-line: none;
+}
+
+.icon{
+color: black;
+padding-right: 1rem;
+}
+
+.icon:hover{
+color: black;
+}
+
+.wix{
+color: black;
+text-decoration-line: underline;
+}
+
+.wix:hover{
+color: black;
+}

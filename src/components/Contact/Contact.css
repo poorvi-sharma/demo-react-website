@@ -1,0 +1,31 @@
+.div {
+  margin-bottom: 200px;
+}
+.div1 {
+  margin-left: 150px;
+  margin-top: 90px;
+}
+.div2 {
+  margin-left: 120px;
+  margin-top: 120px;
+}
+.gap {
+  margin-left: 20px;
+}
+.contact-btn {
+  border: 1px solid black;
+  color: black;
+  font-weight: 600;
+  font-size: 20px;
+  height: 7.5rem;
+  width: 7.5rem;
+  display: flex row;
+}
+.btn-div {
+  padding-left: 20px;
+  padding-top: 20px;
+}
+.form-controls {
+  width: 250px;
+  height: 110px;
+}

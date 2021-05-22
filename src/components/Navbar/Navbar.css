@@ -1,0 +1,78 @@
+
+.navcol {
+    background-color: #f3f3f3;
+    color: black;
+    padding-right: 35%;
+}
+
+.ull{
+    margin-right: 0%;
+    padding-right: 0%;
+}
+
+.mr-auto{
+    margin-right: 0%;
+    padding-right: 0%;
+}
+
+.fortext{
+    margin-left: 60%;
+}
+
+h1{
+    color: black;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.Nicol{
+    font-size: 22px;
+    font-weight: bold;
+    padding-right: 10px;
+}
+
+p{
+    color: black;
+    font-size: 16px;
+    padding-left: 20%;
+}
+
+.hove{
+    color: black;
+}
+
+.hove:hover{
+    color: rgb(233, 87, 30);
+}
+
+.container{
+    margin: 0%;
+}
+
+.Orange{
+    height: 22px;
+    width: 22px;
+    border-radius: 100%;
+    margin: 0 0 0 4%;
+}
+
+h5{
+    color: black;
+    font-size: 16px;
+    font: lighter;
+}
+.navbar-toggler-icon
+{
+    margin-left:295px;
+    margin-top: -30%;
+    height:60px;
+    width:35px;
+    
+}
+/* .hove{
+    color: black;
+}
+
+.hove:hover{
+    color: white;
+} */

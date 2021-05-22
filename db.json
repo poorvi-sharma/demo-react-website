@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "name": "Daisy Ahmed",
+      "username": "18 May 2021",
+      "email": "daisy@gmail.com",
+      "phone": "AB +ve",
+      "website": "Blood Pressure",
+      "id": 2
+    },
+    {
+      "name": "Ana Thakre",
+      "username": "12 March 2021",
+      "email": "ana@gmail.com",
+      "phone": "B -ve",
+      "website": "None",
+      "id": 3
+    }
+  ]
+}
